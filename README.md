@@ -1,5 +1,9 @@
 # Mass Certificate Generator (CertGen)
 
+![PHP Badge](https://img.shields.io/badge/language-PHP-purple.svg)
+![HTML Badge](https://img.shields.io/badge/language-HTML-orange.svg)
+![CSS Badge](https://img.shields.io/badge/language-CSS-blue.svg)
+
 CertGen is a PHP-based web application designed to generate multiple certificates efficiently. This application allows users to upload a certificate template image, a CSV file containing names, and a font file for customization. It then generates individual certificates by overlaying names onto the template image, creating a downloadable zip file containing all the generated certificates.
 
 ## Features
