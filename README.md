@@ -21,6 +21,10 @@ CertGen is a PHP-based web application designed to generate multiple certificate
 3. **Generate Certificates**: Click on the "Generate Certificates" button to initiate the certificate generation process.
 4. **Download**: Once the generation process completes, download the zip file containing all the certificates.
 
+### Demo Usage
+
+For a demonstration of CertGen, visit [CertGen](https://healthgate.free.nf/certgen.php).
+
 ## Recommendations
 
 - **Image Requirements**: Ensure that the certificate template image is in either JPEG or PNG format.
